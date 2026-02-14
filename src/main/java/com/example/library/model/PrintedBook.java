@@ -15,7 +15,6 @@ public class PrintedBook extends Book {
         this.year = year;
         this.pages = pages;
     }
-
     public int getPages() {
         return pages;
     }
